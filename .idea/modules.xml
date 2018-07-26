@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/00_find_array/00_find_array.iml" filepath="$PROJECT_DIR$/00_find_array/00_find_array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Array_duplicate_number/01_Array_duplicate_number.iml" filepath="$PROJECT_DIR$/01_Array_duplicate_number/01_Array_duplicate_number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Create_mutiply_array/02_Create_mutiply_array.iml" filepath="$PROJECT_DIR$/02_Create_mutiply_array/02_Create_mutiply_array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_Reg/03_Reg.iml" filepath="$PROJECT_DIR$/03_Reg/03_Reg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_ReplaceSpace/04_ReplaceSpace.iml" filepath="$PROJECT_DIR$/04_ReplaceSpace/04_ReplaceSpace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_PrintListFromTailToHead/05_PrintListFromTailToHead.iml" filepath="$PROJECT_DIR$/05_PrintListFromTailToHead/05_PrintListFromTailToHead.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_ReConstructBinaryTree/06_ReConstructBinaryTree.iml" filepath="$PROJECT_DIR$/06_ReConstructBinaryTree/06_ReConstructBinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_Two_stack_to_queue/07_Two_stack_to_queue.iml" filepath="$PROJECT_DIR$/07_Two_stack_to_queue/07_Two_stack_to_queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_MinNumberInRotateArray/08_MinNumberInRotateArray.iml" filepath="$PROJECT_DIR$/08_MinNumberInRotateArray/08_MinNumberInRotateArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_Fibonacci/09_Fibonacci.iml" filepath="$PROJECT_DIR$/09_Fibonacci/09_Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_Jump_Floor/10_Jump_Floor.iml" filepath="$PROJECT_DIR$/10_Jump_Floor/10_Jump_Floor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_Jump_FloorII/11_Jump_FloorII.iml" filepath="$PROJECT_DIR$/11_Jump_FloorII/11_Jump_FloorII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_RectCover/12_RectCover.iml" filepath="$PROJECT_DIR$/12_RectCover/12_RectCover.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_NumberOf1/13_NumberOf1.iml" filepath="$PROJECT_DIR$/13_NumberOf1/13_NumberOf1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14_Power/14_Power.iml" filepath="$PROJECT_DIR$/14_Power/14_Power.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15_ReOrderArray/15_ReOrderArray.iml" filepath="$PROJECT_DIR$/15_ReOrderArray/15_ReOrderArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16_FindKthToTail/16_FindKthToTail.iml" filepath="$PROJECT_DIR$/16_FindKthToTail/16_FindKthToTail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17_ReverseList/17_ReverseList.iml" filepath="$PROJECT_DIR$/17_ReverseList/17_ReverseList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18_MergeList/18_MergeList.iml" filepath="$PROJECT_DIR$/18_MergeList/18_MergeList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19_HasSubtree/19_HasSubtree.iml" filepath="$PROJECT_DIR$/19_HasSubtree/19_HasSubtree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/to_offer.iml" filepath="$PROJECT_DIR$/to_offer.iml" />
+    </modules>
+  </component>
+</project>
